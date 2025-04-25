@@ -17,4 +17,10 @@
     --focus-ring-color: var(--p-focus-ring-color);
     --focus-ring-offset: var(--p-focus-ring-offset);
     --focus-ring-shadow: var(--p-focus-ring-shadow);
+
+    --p-datatable-column-title-font-weight: 500!important;
+}
+
+.font-semibold {
+    font-weight: 400;
 }
